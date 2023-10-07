@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omar492d, a beginner programmer
-- 👀 I’m interested in problem solving and helping the people around me
-- 🌱 I’m currently learning app development using swift
-- 💞️ I’m looking to collaborate on a revolutionary app that will benefit countless others
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me....
 
 <!---
