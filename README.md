@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omar492d, a beginner programmer
+- 👋 Hi, I’m @omar492d
 - 👀 
 - 🌱 
 - 💞️ 
